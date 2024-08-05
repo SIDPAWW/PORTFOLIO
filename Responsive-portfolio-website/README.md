@@ -8,5 +8,3 @@
 
 💙 
 
-![preview img](/preview.png)
-
